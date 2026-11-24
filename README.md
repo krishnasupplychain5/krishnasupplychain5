@@ -1,16 +1,44 @@
-## Hi there 👋
+# 🏢 KRISHNA SUPPLY CHAIN
 
-<!--
-**krishnasupplychain5/krishnasupplychain5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Your Trusted Partner in Industrial & Commercial Supplies
 
-Here are some ideas to get you started:
+Welcome to Krishna Supply Chain!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We provide quality products and reliable supply solutions for industries, businesses and commercial organizations.
+
+## 🚀 OUR PRODUCT RANGE
+
+- 🧹 Housekeeping Products
+- 🦺 Industrial Safety Products
+- ⚙️ Industrial Oil & Lubricants
+- 🛒 FMCG Products
+- 📦 General & Office Supplies
+- 🏭 Industrial Products
+
+## 🤝 OUR SERVICES
+
+- Wholesale Trading
+- Bulk Material Supply
+- Industrial Procurement
+- B2B Supply Solutions
+- Customized Product Sourcing
+
+## 🎯 OUR MISSION
+
+To provide quality products, competitive prices and dependable supply chain solutions.
+
+## 📍 OUR LOCATION
+
+Rudrapur, Uttarakhand, India
+
+## 👤 CONTACT DETAILS
+
+**Business Name:** Krishna Supply Chain
+
+**Contact Person:** Rakesh Kumar
+
+**GitHub:** https://github.com/krishnasupplychain5
+
+---
+
+### Quality Products | Reliable Supply | Trusted Partnership
