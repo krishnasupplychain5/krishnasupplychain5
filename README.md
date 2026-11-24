@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ksc-logo.png" width="250">
+</p>
 # 🏢 KRISHNA SUPPLY CHAIN
 
 ### Your Trusted Partner in Industrial & Commercial Supplies
